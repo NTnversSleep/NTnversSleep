@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NTnversSleep
 - 👀 I’m interested in Kdramas.
-- 🌱 I’m currently learning ReactJS framwork.
+- 🌱 I’m currently learning ReactJS framework.
 - 📫 How to reach me: nngoctanneuk59@gmail.com
 
 <!---
